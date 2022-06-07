@@ -1,3 +1,3 @@
 
-const envVariables=   {"domain":"http://localhost:7003"};
+const envVariables=   {"domain":"https://whatapp.onrender.com"};
 export default envVariables;
