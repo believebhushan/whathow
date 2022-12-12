@@ -9,6 +9,8 @@ import Login from "../components/login";
 export default function Home() {
  const [state,setState]=useState({isloggedIn:null,qrText:"",isauthorised:false});
 
+ console.log("Bharat Bhai")
+
   console.log(state.isloggedIn);
   if(!state.isloggedIn){
     setTimeout(()=>{
